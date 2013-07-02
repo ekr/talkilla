@@ -8,7 +8,17 @@
   },
   "dependencies": {
     "express": "3.0.x",
-    "ws": "0.4.x"
+    "ws": "0.4.x",
+    "connect":"",
+    "buffer-crc32":"",
+    "methods":"", 
+    "debug":"",
+    "fresh":"",
+    "range-parser":"",
+    "cookie-signature":"",
+    "cookie":"",
+    "send":"",
+    "options":""
   },
   "devDependencies": {
     "awsbox": "0.4.x",
